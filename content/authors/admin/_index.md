@@ -6,7 +6,7 @@ title: Madison Aitken, Ph.D., C.Psych
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Clinician Investigator & Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
