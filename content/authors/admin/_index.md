@@ -16,7 +16,7 @@ organizations:
   url: https://www.psychiatry.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include transdiagnostic risk and protective factors for youth psychopathology, with a specific interest in parent-youth relationships.
 
 # Interests to show in About widget
 interests:
