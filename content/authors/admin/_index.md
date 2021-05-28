@@ -20,9 +20,9 @@ bio: My research interests include transdiagnostic risk and protective factors f
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Transdiagnostic models of psychopathology
+- Parent-adolescent relationships
+- Improving treatment outcomes
 
 # Education to show in About widget
 education:
