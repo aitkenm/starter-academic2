@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Madison Aitken, Ph.D., C.Psych
 
 # Is this the primary user of the site?
 superuser: true
