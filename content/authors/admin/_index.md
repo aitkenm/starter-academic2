@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-My research focuses on understanding transdiagnostic factors in the development and treatment of child and adolescent psychopathology. I use a variety of approaches, including clinical trials, meta analysis, and secondary analyses of clinical and epidemiological datasets.
+I'm a clinical psychologist and researcher in Toronto, Canada.  My research focuses on understanding transdiagnostic factors in the development and treatment of child and adolescent psychopathology. I use a variety of approaches, including clinical trials, meta analysis, and secondary analyses of clinical and epidemiological datasets.
 
 Areas I'm currently focused on include: 1) the general psychopathology ("p") factor and how it can help us understand broad and specific risk/protective factors; 2) how network analysis can help us understand symptom change across therapy; and 3) the parent-youth relationship and how it can be improved using various therapy approaches.
 
