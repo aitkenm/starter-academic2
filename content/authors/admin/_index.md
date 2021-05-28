@@ -12,6 +12,8 @@ role: Clinician Investigator & Assistant Professor
 organizations:
 - name: Centre for Addiction and Mental Health
   url: https://www.camh.ca/
+- name: Department of Psychiatry, University of Toronto
+  url: https://www.psychiatry.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
