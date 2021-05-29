@@ -2,7 +2,7 @@
 title: Attention problems and restlessness as	transdiagnostic markers of
   severity and treatment response in youth with internalizing problems
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Madison
 author_notes:
@@ -39,7 +39,7 @@ tags:
 projects: []
 image:
   filename: internalizing-beeswarm_v2.jpg
-  focal_point: ""
+  focal_point: CENTER
   preview_only: false
   alt_text: A beeswarm plot comparing classes on internalizing severity
 date: 2021-05-29T03:04:55.490Z
