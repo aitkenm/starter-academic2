@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Madison Aitken, Ph.D., C.Psych
+title: Madison Aitken
 
 # Is this the primary user of the site?
 superuser: true
